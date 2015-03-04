@@ -1,0 +1,21 @@
+{
+    "title": "Spacegray-Brackets",
+    "name": "alexpersian.spacegray-brackets",
+    "description": "The popular Spacegray theme from Sublime Text, now in Brackets!",
+    "version": "1.0",
+    "author": "Alex Persian <alex.persian@outlook.com> (http://alexpersian.com/)",
+    "homepage": "https://github.com/alexpersian/Spacegray-Brackets",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Theme/Spacegray-Brackets.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
